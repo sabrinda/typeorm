@@ -33,9 +33,6 @@ unlike all other JavaScript ORMs currently in existence,
 which means you can write high-quality, loosely coupled, scalable,
 maintainable applications in the most productive way.
 
-TypeORM is highly influenced by other ORMs, such as [Hibernate](http://hibernate.org/orm/),
-[Doctrine](http://www.doctrine-project.org/) and [Entity Framework](https://www.asp.net/entity-framework).
-
 ## Features
 
 -   Supports both [DataMapper](./docs/active-record-data-mapper.md#what-is-the-data-mapper-pattern) and [ActiveRecord](./docs/active-record-data-mapper.md#what-is-the-active-record-pattern) (your choice).
